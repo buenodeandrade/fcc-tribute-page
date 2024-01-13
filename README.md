@@ -6,7 +6,7 @@
 Successfully completed on November 2, 2023, representing approximately 300 hours of work.
 
 ## Languages
-| Languages |                                               |
+| Languages | Official documentation                        |
 |-----------|:---------------------------------------------:|
 | HTML      | https://html.com/                             |
 | CSS       | https://www.w3.org/Style/CSS/Overview.en.html |  
