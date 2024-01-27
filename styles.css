@@ -2,9 +2,13 @@ body {
     background: #E4E4DE;
     color: 1B1B1B;
     font-family: Verdana;
-    margin: 20px;
+    margin: auto;
     max-width: 600px;
     min-width: 300px;
+  }
+
+h1, h2, h3, p {
+    margin: 20px;
   }
   
   h1 {
@@ -34,9 +38,46 @@ body {
     text-align: left
   }
   
-  .photo img {
+  .photo {
     display: block;
     text-align: center;
+    width: 100%;
+    max-width: 100%;
+    min-height: 100%;
+    object-fit: cover;
+    border-radius: 15px;
+    border: 2px solid #3b3b4f;
+    background: #C4C5BA;
+  }
+
+.photo img {
+    display: block;
+    text-align: center;
+    width: 100%;
+    max-width: 100%;
+    min-height: 100%;
+    object-fit: cover;
+    border-radius: 15px 15px 0 0;
+    border: 0px solid #3b3b4f;
+  }
+
+ #img-caption {
+    text-align: center;
+    width: 100%;
+    max-width: 98%;
+    min-height: 100%;
+    border-radius: 10px;
+   
+ }
+
+  div {
+    display: block;
+    margin: auto;
+    max-width: 90%;
+  }
+  
+  footer a {
+    color: #595f39;}
     width: 100%;
     max-width: 100%;
     min-height: 100%;
