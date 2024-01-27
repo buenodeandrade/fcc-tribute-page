@@ -1,7 +1,8 @@
 # Tribute Page
 
 ## Preview
-![image](https://github.com/buenodeandrade/fcc-tribute-page/assets/147355115/5e6a3023-8119-4669-a7c6-bae7146e543f)
+![image](https://github.com/buenodeandrade/fcc-tribute-page/assets/147355115/862bf349-b0c4-4444-8e79-639bc7e1aead)
+
 ## Certification project required to earn the Responsive Web Design Developer certificate from [freeCodeCamp](https://www.freecodecamp.org/).
 Successfully completed on November 2, 2023, representing approximately 300 hours of work.
 
